@@ -11,7 +11,7 @@ public class Cars extends Vehicle {
 	@Override
 	int mileage() {
 		// TODO Auto-generated method stub
-		return 0;
+		return 20;
 	}
 
 	@Override
