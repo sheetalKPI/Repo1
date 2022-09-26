@@ -1,6 +1,6 @@
 package Oops;
 
-public class School {
+public abstract class School {
 
 	abstract int numbers();
 }
