@@ -1,6 +1,6 @@
 package Oops;
 
-public class Rectangle {
+public class Rectangle extends Area {
 	public static void main(String ards[])
 	{
 		int width=5;

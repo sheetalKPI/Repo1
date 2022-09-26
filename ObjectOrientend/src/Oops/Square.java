@@ -1,6 +1,6 @@
 package Oops;
 
-public class Square {
+public class Square extends Area{
 	public static void main(String args[])
 	{
 		int s=12;
