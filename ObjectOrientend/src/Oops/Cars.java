@@ -8,4 +8,22 @@ public class Cars extends Vehicle {
 		return 80;
 	}
 
+	@Override
+	int mileage() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	void colour() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	void tyre() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
