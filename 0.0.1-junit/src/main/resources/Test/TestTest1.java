@@ -2,6 +2,8 @@
 public class TestTest1 {
 
 	
+	private static final String Test1 = null;
+
 	@Test
 	public void testFindMax(){  
         assertEquals(4,Test1.findMax(new int[]{1,3,4,2}));  
